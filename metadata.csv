@@ -1,2 +1,138 @@
-dataset id,data creation date,specification version,source data description
-gmjp99,2099-12-31,9.9,"source data is, well, something."
+dataset id,release date from ISCGM,specification version,source data description
+gmcg10,2008-05-23,,"The data is created from 'LANDSAT ETM+' image which the GLCF project of the Maryland state university offers, Vmaplevel0, and the geographic information in which acquisition at spot is possible."
+gmcg20,2016-02-18,2.0,"The data is created from 'LANDSAT ETM+' image which the GLCF project of the Maryland state university offers, Vmaplevel0, and the geographic information in which acquisition at spot is possible."
+gmcd10,2008-05-08,,No information
+gmet10,2008-05-15,,No information
+gmet20,2015-07-16,2.1,"The Global Map Ethiopia version 2 was developed based on Global Map Specifications version 2.1. The data source was Global Map ver,1 made in 2007."
+gmke10,2002-09-18,,No information
+gmsd10,2007-08-27,,No information
+gmdz10,2007-07-20,,No information
+gmdz20,2016-02-16,2.0,No information
+gmtn10,2008-11-20,,"The Boundary layer data were prepared from digital map 1:200,000 and 1:50,000 of the 2004 creation. The Transportation, Drainage and Population center layer were prepared from digital map 1:200,000 and 1:1,000,000 of the 2006 creation. "
+gmbw10,2003-07-12,,No information
+gmbw20,2012-12-12,2.1,"The Global Map version 2 was developed from surveyed data and where the data follows the alignment of a natural feature such as waterbody, it was developed from ortho-photos of 1 meter cell resolution."
+gmmg20,2016-03-14,2.2,The Global Map Madagascar version 2 Land Use layer was developed using Madagascar Land Use Map.
+gmmu10,2009-01-16,,No information
+gmmz10,2008-01-18,,The Global Map Mozambique version 1.0 was developed from the shapefiles Map 1:250.000 & 1:50.000 developed 1996-1999 and website of Aeroportos de Mocambique (www.aeroportos.com) 2007.
+gmmz20,2013-03-21,2.1,The Global Map Mozambique version 2 was developed to update Global Map Mozambique version 1 based on Global Map Specifications version 2.1. The Global Map Mozambique version 1.0 was developed from the shapefiles Map 1:250.000 and 1:50.000 developed 1996-1999.
+gmza10,2007-04-13,,"The bulk of the data was captured from the South African Provincial Map Series (2nd edition 2001), i.e. LIMPOPO 1:700 000, NOTHERN CAPE 1:1 200 000,KWAZULU - NATAL 1:700 000, WESTERN CAPE 1:800 000, EASTERN CAPE 1:800 000, MPUMALANGA 1:600 000, NORTH WEST 1:700 000, FREE STATE 1:700 000,GAUTENG 1:300 000"
+gmza11,2007-03-20,,"The Global Land Cover layer of South Africa was prepared from NLC2000 land cover information and MODIS products provided by EOS Data Gateway, USGS."
+gmza20,2016-02-16,2.0,"The bulk of the data, for this layer, was captured from the South African Provincial Map Series (2nd edition 2001), i.e. LIMPOPO 1:700 000, NOTHERN CAPE 1:1 200 000,KWAZULU - NATAL 1:700 000, WESTERN CAPE 1:800 000, EASTERN CAPE 1:800 000, MPUMALANGA 1:600 000, NORTH WEST 1:700 000, FREE STATE 1:700 000,GAUTENG 1:300 000"
+gmsainthelena20,2013-02-15,2.1,"The Global Map St Helena Island version 2  Drainage, Transportation and Population Centres layer were developed from the 1989, 1: 10,000 Ordance Survey map at a scale of 1: 10,000. The Global Map St Helena Island version 2: Boundary layer was developed at scale of 1:25,000 on the 12/12/2005 and from the 1989, 1:10,000 Ordance Survey map at a scale of 1:25,000."
+gmsz10,2004-06-23,,"The Global Map Swaziland was developed from 1:250,000 topographic map, SWAZILAND(1988)."
+gmsz20,2016-02-17,2.0,"The Global Map Swaziland - Boundaries layer were developed from 1:250,000 topographic map, SWAZILAND(1988)."
+gmzm20,2012-05-10,2.1,"The Global Map Zambia version 1.0 was developed using The 1:750,000  land use map series for Survey Department. "
+gmzanzibar20,2013-03-21,2.1,"The data were prepared from the 1:50,000 Basic map of Zanzibar made in 1985."
+gmbf10,2003-07-12,,No information
+gmbf20,2013-01-11,2.1,"The Global Map Burkina Faso version 2 was developed based on Global Map Specifications version 2.1. The data source was a 1:200,000 paper map made in 1960, and after convert to digital format and update in 2000 and 2009 ."
+gmci20,2016-07-21,2.0,"The Global Map Cote d'Ivore version 2 was developed based on Global Map Specifications version 2.2. The data source of Boundary, Drainage and Transportation layers were a 1:500000 map image (Topo 500 V2) made in 2012. The data source data of Population Center layer was a 1:200000 map image (BDGeo 200) made in 2005."
+gmgh10,2007-03-14,,No information
+gmgw10,2008-06-03,,No information
+gmgw20,2013-01-17,2.1,The Global MapGuinea-Bissau version 2 was developed to update Global Map Guinea-Bissau version 1 based on Global Map Specifications version 2.1.
+gmml20,2012-05-10,2.1,"The Global Map Mali version 2 was developed based on Global Map Specifications version 2.1. The data source was a 1:500,000 map image made in 1960."
+gmne10,2007-11-21,,No information
+gmne20,2013-02-15,2.1,The Global Map Niger version 2 was developed to update Global Map Niger version 1 based on Global Map Specifications version 2.1.
+gmsn10,2008-05-21,,"The data is created from 'LANDSAT ETM+' image which the GLCF project of the Maryland state university offers, Vmaplevel0, and the geographic information in which acquisition at spot is possible."
+gmsn20,2011-08-25,2.0,"the Global Map Senegal drainage version 2.0 was developed by using the Global Map Senegal version 1.0 and the International map serie at the scale 1000000 and the map scale 500 000. The Global Map Senegal version 1.0 Transportation layer was developed using The 1:1,000,000 Chart International series and The Digital Map 200000. Updating the data of version 1.0 using The 1:500,000 District Map series and 1:1,000,000 International Map series developed the Global Map Senegal version 1.1 Transportation layer. Updating the Global Map Senegal version 1.1 using 1:1,000,000 Topographic Maps developed the Global Map Senegal version 2.0 Transportation layer. 1.1: 2006-12-13, Version 2.0: 2012-07-25. The Global Map Senegal version 2.0 Boundaries layer was developed using the Digital Map 200000. The Global Map Senegal version 2.0 Population center layer was developed using  The 1:200,000 Topographic Map. The Release of Global map Senegal  Elevation layer series are as follows: Version 1.0: 2000-11-28, Version 1.1: 2006-12-13, Version 2.0: 2012-07-25"
+gmtg20,2014-10-17,2.1,"The Global Map Togo version 2 was developed based on Global Map Specifications version 2.1. The data source was a 1:500,000 map image made in 1991."
+gmtristandacunha10,2006-10-03,,"The Global Map Tristan da Cunhawas developed by ISCGM based on the chart 1769 'ISLANDS AND ANCHORAGES IN THE SOUTH ATLANTIC OCEAN', which published by United Kingdom Hydrographic Office in November, 1994."
+gmaf20,2011-09-02,2.0,"District Level Administrative Boundaries of Afghanistan contains District Level boundaries for Afghanistan, mapped at 1:100,000 scale from the United States Defence Mapping Agency (USDMA) 1:100k topographic Maps."
+gmaz10,2008-10-20,,No information
+gmaz20,2012-10-05,2.1,"The Global Map Azerbaijan version 2 was developed based on Global Map Specifications version 2.1. The data source was a 1:600,000 map image made in 2009."
+gmbh10,2007-05-07,,No information
+gmbh20,2012-12-19,2.1,"The Global Map Bahrain version 2 was developed from the Topo 250 data 2012 at 1:250,000 + Geo eye 2011 Satellite Image."
+gmbd10,2001-07-22,,No information
+gmbd11,2007-01-01,,No information
+gmbd20,2012-11-29,2.1,"The Global Map Bangladesh version 2 was developed based on Global Map Specifications version 2.1. The data source of this is 1:50,000 scale map which base map of Survey of Bangladesh by using geoconcept Software."
+gmbt10,2008-06-05,,"Boundaries layer was developed from Digital Map 1:50000 and 1:250,000(2005). Drainage layer was developed from the DEM generated from GTOPO30 and validated from 1:50000 maps for entire drainage.  Population layer was developed from Digital Map 1:2500 cadastral maps(1996-2005). Transportation layer was developed from DGPS observations using the cars.Entire transportation network observed and edited for some segment errors in ARcgis in 2005."
+gmbt20,2016-04-06,No metadata,No metadata
+gmbn10,2008-03-31,,No information
+gmbn20,2012-12-19,2.0,"The Global Map Togo version 2 Boundary layer was developed based on Global Map Specifications version 2.2. The data source was a 1:250,000."
+gmhk10,2008-02-18,,"Map Database in scale of 1:100,000"
+gmin10,2007-09-13,,No information
+gmin20,2016-02-18,2.0,No information
+gmid10,2007-09-27,,No information
+gmir10,2005-10-24,,"Boundaries layer was developed from Digital Map 1:250000(1996). Drainage and Population layer were developed from Digital Map 1:250000(1996), Digital Map 1:500000(1999) and Digital Map 1:1000000(1995). Transportation layer was developed from Digital Map 1:250000(1996), Digital Map 1:500000(1999) and Road Map 1:2500000(2000). Asphalt roads acquired by GPS."
+gmir11,2007-11-xx,1.1,No information
+gmir20,2013-01-17,2.1,The Global Map Iran was developed from Digital Map 1:250000(1996)
+gmjp,,,
+gmjo10,2006-12-08,,"The Global Map Jordan was developed from Tourist Map of Jordan 2005 Scale 1:750,000."
+gmjo20,2012-08-22,2.1,"The Global Map Jordan version 1 was developed from Tourist Map of Jordan 2005 at 1:750,000 scale. The Global Map Jordan version 2 was developed to update Global Map Jordan version 1 based on Global Map Specifications version 2.1."
+gmkz10,2003-07-12,,No information
+gmkr,,,
+gmkg10,2003-07-12,,"The Global Map Kyrgyzstan is mainly based on the paper topographic maps provided by the State Service of Cartography and Geodesy of Kyrghyz Republic, and VMAP0 is used as supplemental information.
+"
+gmkg20,2016-02-08,2.0,"The Global Map Kyrgyz is mainly based on the paper topographic maps provided by the State Service of Cartography and Geodesy of Kyrghyz Republic, and VMAP0 is used as supplemental information."
+gmla10,2000-11-28,,No information
+gmla20,2013-01-18,2.0,"The Global Map Lao People's Democratic Republic version 2.0 was developed using 1:100,000 Topographic Maps, which is corresponding to the merger of municipalities as of April 1, 2010."
+gmlb10,2007-08-14,,No information
+gmlb20,2012-05-10,2.1,The Global Map Lebanon version 2 was developed to update Global Map Lebanon version 1 based on Global Map Specifications version 2.1.
+gmmy10,2007-03-23,,No information
+gmmy20,2012-11-06,2.0,The Global Map Malaysia is extracted from existing topographic map of scale 1:25 000.
+gmmn10,2001-12-04,,No information
+gmmn20,2013-04-22,2.1,"The Global Map Mongolia version 2 was developed to update Global Map Mongolia version 1 based on Global Map Specifications version 2.1. The data source for update was the 1:100,000 Boundary data made between 2007 and 2010. Water Course feature was updated using ALOS imagery of Ulaanbaatar area. The population attribute was newly acquired using 1:100,000 paper maps which were used to develop Global Map Mongolia version 1. Railroad Station was newly acquired using 1:500,000 paper maps which were used to develop Global Map Mongolia version 1. Both of Railroad and Road was updated using ALOS imagery in Ulaanbaatar area."
+gmmm10,2003-07-12,,No information
+gmnp10,2000-11-28,,No information
+gmnp20,2016-02-01,2.2,"The drainage and Transportation layers version 2 are prepared by using the digital 1:1000k data of nepal. The Global Map Nepal version 1.0 Boundaries layer was developed using The Digital Map 200000. Updating the data of version 1.0 using 1:500,000 District Map series and 1:1,000,000 International Map series developed the Global Map Nepal version 1.1 Boundary layer. Updating the Global Map Nepal version 1.1 using 1:1,000,000 Topographic Maps and other information developed the Global Map Nepal version 2.0 Boundary layer, which is corresponding to the merger of municipalities as of April 1, 2010. The Global Map Nepal version 1.0 Population center layer was developed using The 1:1,000,000 Chart International series. Updating the data of version 1.0 using The 1:500,000 District Map series and 1:1,000,000 International Map series developed the Global Map Nepal version 1.1 Population center layer. Updating the Global Map Nepal version 1.1 developed the Global Map Nepal version 2.0 Population center layer, which is corresponding to the merger of municipalities as of April 1, 2010. (Because the built-up area data of the Global Map Nepal is corresponding to the location of each municipality.)"
+gmom10,2008-04-15,,No information
+gmom20,2013-02-28,2.1,This data is not an authority on International Boundaries.
+gmpk10,2008-04-14,,No information
+gmpk20,2012-08-31,2.1,"The Global Map Pakistan version 2 was developed to update Global Map Pakistan version 1 based on Global Map Specifications version 2.1. Airport and Railroad Station were newly acquired using 1:1,000,000 map images which were used to develop Global Map Pakistan version 1."
+gmps10,2008-03-18,No metadata,No metadata
+gmph10,2000-12-20,,No information
+gmsa10,2007-06-21,,No information
+gmsa20,2013-03-29,2.1,The Global Map Saudi Arabia version 2 was developed to update Global Map Saudi Arabia version 1 based on Global Map Specifications version 2.1.
+gmsg10,2007-06-05,,No information
+gmlk10,2000-11-28,,No information
+gmlk20,2013-04-22,2.0,"The Global Map Sri Lanka version 2 was developed based on Global Map Specifications version 2.2. The data source of Boundary layer was a 1:250,000 map image made in 2012. The data source of Drainage was a 1:250,000 map image made in 1996 and 2008.Only capital area is updated from ALOS stellite images of 2010-2011. The data source of Population Center layer was a 1:250,000 map image made in 1996 and 2008. The data source of Transportation layer was a 1:250,000 map image made in 2012. Only capital area is updated from ALOS stellite images of 2010-2011."
+gmsy10,2008-08-13,,No information
+gmth10,2000-11-28,,No information
+gmvn10,2007-03-23,,"The Global Map Viet Nam was developed from the topographic maps in the scale of 1:500,000 and other sources."
+gmvn20,2016-03-10,2.0,"Updating the transportation data of version 1.0 using The 1:500,000 transportation map series and 1:1,000,000 digital topographic maps. Updating the Boundaries, Drainage and Population Centre data of version 1.0 using The 1:1,000,000 digital topographic maps and The National Administration Atlas 2013. Create the Elevation data version 1.0 using The 1:1,000,000 digital topographic maps. Create the Land Cover and Vegetable data of version 1.0 using The Modis images 2010. Create the Land Use data version 1.0 using 63 provincial land use maps 2010."
+gmeu80,,,
+gmal20,2016-07-14,2.0,"The Global Map Albania version 2 was developed based on Global Map Specifications version 2.2. The source data of vector layers were a Digital Map 1:25000 and Orthophoto, map image made in 1985 and orthophoto made in 2008. The data source of Elevation layer was developed using orthophoto 2000 year. The data source of Land Use and Vegetation layer were developed using orthophoto 2012 year. IRS, SPOT and RapidEye satellite images, dual coverage, orthophotos (2012), topographic maps for making Land Cover. "
+gmbg10,2009-12-25,,The data were generalized and prepared using source vector data from topographic maps in scale 1:50000.
+gmbg20,2010-06-16,2.0,No information
+gmge10,2008-01-18,,No information
+gmge20,2013-02-15,2.1,"The Global Map Georgia version 2 was developed from the  2008 Year, data - 1:1 000 000, source data -Topo map image. Updated information from the Ministries, political boundary line and political boundary area were developed from the Topo 1 000 000"
+gmmk10,2006-03-08,,"The Global Map Macedonia was developed by SAGW as e CAD data in dgn format, and then adapted in to Global Map standards. "
+gmmk20,2011-11-01,2.0,"Source data for creation the Global Mapping data are data from cadastral  plans in scale 1:1000, 1:2500, 1:5000 and 1:10000 in raster form. All data are topologically correct. The boundaries are generalized according to the Global Mapping Specifications v.2  for scale 1:1000000. The geospatial data are transformed from the local Macedonian state coordinate system to WGS84, UTM 34 projection. The Global Map Macedonia - Drainage, Population Center and Transportation layer were developed by digitizing of the excisting maps in scale 1:200.000."
+gmro10,2008-02-18,,The Global Map Romania was developed national dataset from scale 1:500000 - dwg format.
+gmro20,2013-02-09,2.0,"The Global Map Romania- Boundaries and Drainage layer was developed national dataset from scale 1:500000 - dwg format. Updating of data of this version using generalized data from 1:5000 scale. The Global Map Romania- Drainage layer was developed national dataset from scale 1:500000 - dwg format. In this version was updated almost of inland water and water courses. The Global Map Romania- Population Centre layer was developed national dataset from scale 1:5000000 - dwg format. In this version, in Built-up Area (point) are included all the main village of the local administrative units and almost of this are connected through road. The Global Map Romania- Transportation layer was developed national dataset from scale 1:50000 - dwg format. Updating of data for this version using data from 1:5000 scale."
+gmrs20,2013-05-07,2.0,"Boundaries of administrative units are collecting from different sources (cadastral maps, basic state map and topographic maps of various scales). Positional accuracy has value between 1m to 300m based on source for data collecting. Global Map Serbia version 2.1 Drainage, Population center and Transportation  layers were created using the Topographic map 1:300 000. Updating the data using The vector national database (scale 1:1 000 000) and orthophoto images.  Digital Terrain Model with 30m grid is produced using terrain elevation data obtained under  ""Production of digital orthophoto maps for the Republic of Serbia"". In order to satisfied Global Map Specification data resampling is done to 1km resolution. Global Map Serbia version 2.0 Land Cover was created using the vector data from European Environment Agency (EEA) - The data were collected and processed using remote sensing satellite images."
+gmlv10,2006-08-22,,"The Global Map Lativia accuracy corresponds to scale 1:500 000. The data were developed with generalization method from digital map at scale 1:200 000 which were created from satellite map at scale 1:50000. Data source for satellite map - SPOT panchromatic satellite imagery (1993, resolution 10m). In 2001 data base of satellite map was renovated. Data are renovated from aerial photographs at scale 1:30 000(1994-1999). Names of administrative units are shown according to data from the Central Statistical Bureau of Latvia. Data source of boundary lines for satellite map was civil parish maps at scale 1:25 000 (1993-1994).  In period of preparing data for Global Map project are corrected according changes till 2003-1."
+gmlv20,2012-11-22,2.0,The Global Map Latvia - Boundaries layer accuracy corresponds to scale 1:500 000. Boundaries layer were developed with generalization method from digital Cadaster map at scale 1:10 000. Names of administrative units are shown according to data from the Central Statistical Bureau of Latvia. Boundary lines information renovated according to changes till November 2012. The Global Map Latvia - Drainage layer accuracy corresponds to scale 1:1 000 000. Drainage layer were developed with generalization method from Overview map of Latvia at scale 1:250 000. Drainage information renovated according to changes till January 2012. The Global Map Latvia - Transportation layer accuracy corresponds to scale 1:1 000 000. Transportation layer were developed with generalization method from Overview map of Latvia at scale 1:250 000. Transportation information renovated according to changes till January 2012.
+gmmd10,2008-06-03,,No information
+gmxk20,2011-08-19,2.0,"The Global Map Republic of Kosovo version 2.0 Boundary layer was developed using the official data that owns Kosovo Cadastral Agency and based on the law that defines administrative boundaries of the Republic of Kosovo. The Global Map Republic of Kosovo version 2.0 Drainage layer was developed using the ortho-photo images of year 2009 and official cadastral data in big scale that owns Kosovo Cadastral Agency. The data of drainage layer was verified by the Ministry of Environment and Spatial Planning of Kosovo, as governmental responsible institution for drainage in Kosovo. The Global Map Republic of Kosovo version 2.0 Population Center layer was developed using the ortho-photo images of year 2009 and official cadastral data in big scale that owns Kosovo Cadastral Agency. The data of drainage layer was verified by the Kosovo Statistical Office, as governmental responsible institution for population centers and demography of the Republic of Kosova. The Global Map Republic of Kosovo version 2.0 Transportation layer was developed using the ortho-photo images of year 2009 and official cadastral data in big scale that owns Kosovo Cadastral Agency. The data of transportation layer was verified by the Ministry of Transportation and Post Telecommunications of Kosovo, as governmental responsible institution for transportation in Kosovo."
+gmbz10,2008-04-30,,No information
+gmca,,,
+gmcu10,2007-06-18,,"The data contained here were transformed from Digital Topographical Map 1:250 000 of Cuba provided by GEOCUBA, Cuba. "
+gmcu20,2016-02-12,2.0," The data contained here were transformed from Digital Topographical Map 1:250 000 of Cuba provided by GEOCUBA, Cuba."
+gmdm10,2007-12-19,,No information
+gmdm20,2013-03-18,2.1,The Global Map Dominica version 2 Boundary layer was developed to update Global Map Dominica version 1 based on Global Map Specifications version 2.1.
+gmsv20,2013-07-03,2.0,"The Global Map El Salvador version 2 was developed from Geographic Maps Data 2008 at 1:25,000. The boundaries shown in this document  should not be considered definitive until they are ratified by the Legislative Congress of El Salvador. The accurate delimitation of the same , must be requested in writing to the organization that is responsible for this data."
+gmgt10,2007-07-12,,The Global Map Guatemala was developed from Digital Map 1:250000(1999).
+gmhn10,2008-05-08,,No information
+gmhn20,2013-07-23,2.2,"The Global Map Honduras version 2 was developed based on Global Map Specifications version 2.2. The data source was a 1:1,000,000 map image made in 2007."
+gmmx10,2003-07-12,,No information
+gmni10,2008-05-13,,No information
+gmni20,2016-02-17,2.0,"Data source; Mapa Topo Digital 250000, Nicaragua"
+gmpa10,2002-03-28,,No information
+gmlc10,2008-05-13,,No information
+gmvc10,2008-06-03,,No information
+gmvc20,2016-02-17,2.0,No information
+gmus,,,
+gmar10,2006-10-23,,"The Global Map Argentina - Transportation layer was developed from the generalization of the digital information of the IGM-SIG, scale 1:250000."
+gmbr10,2007-08-31,,"The Global Map Brazil was developed from a digital database of Brazilian territory called Cartographic Integrated Digital Database of Brazil at 1:1 000 000 scale, originated from the International Chart of the World (CIM) paper sheets. It is composed of layers and features, in vector format, representing the main geographic features, which covers all national territory. Each feature class has geometric and semantic attributes associated to a data bank, allowing querying data and aggregating new data."
+gmbr20,2012-09-10,2.0,"The Global Map Brazil - Elevation layer was developed from the contour lines and elevation points of maps on the scale 1:1,000,000 (BCIM -  Brazilian Cartographic Database in millionth),updated by satellite images (GEOCOVER, 2000 and CBERS, 2006) and digital maps, several years at 1:250,000 scale until 2006. The digital elevation model was generated by the vector data triangulation (TIN), converted"
+gmcl10,2008-02-20,,"The Global Map of Chile (Sector in South American Continent and Pacific Ocean) was developed mostly on the basis of an extract from the digital database of Chilean territory maintained by the Military Geographic Institute of Chile. The extract taken from the 1:250,000 series of topographic maps (Universal Transversal Mercator) consisted of those feature types corresponding to Global Map specifications for the Vector layers. This base was converted to 1:1,000,000 and edited to bring it closer to GM specifications, working on both the graphic elements and the tables of alphanumeric data associated. The Antarctic sector of the Global Map of Chile was developed on the basis of an extract from existing map of the whole Antarctic Continent (made by IGM, published in 1999 at 1:10,000,000 scale, Polar Stereographic). This base was converted to 1:1,000,000 and edited to bring it closer to GM specifications, working on both the graphic elements and the tables of alphanumeric data associated. "
+gmco10,2001-05-18,,No information
+gmuy10,2007-12-03,1.1 ,"For the Global Map Project development,the digital map in dgn format to a scale of 1:500.000 was used. "
+gmuy20,2013-03-18,2.1,"In the making of this layer  are used tools of the software, appropriate for the correct union of the vectors in the corresponding  intersections."
+gmau,,,
+gmnz10,2007-06-14,,No information
+gmnz20,2014-07-03,2.2,"The Global Map New Zealand version 2 airport and road were developed from the Topo500 data 2011 at 1:500,000 scale. Railroad station and railroad were developed from Topo250 data 2012 at 1:250,000 scale. Ferry route was developed from the Topo50 data 2012 at 1:50,000 scale. The Global Map New Zealand version 2 built up area was developed from the S-57 data 2012 at 1:90,000-1:350,000 scale. The Global Map New Zealand version 2 coast line, political boundary line and political boundary area were developed from the Topo500 data 2012 at 1:500,000 scale. The Global Map New Zealand version 2 miscellaneous, aqueduct, water course and inland water were developed from the Topo500 data 2011 at 1:500,000 scale."
+gmpg10,2008-04-15,,No information
+gmpg20,2016-02-19,2.0,No information
+gmws10,2004-11-25,,"The Global Map Samoa was developed from 1:50,000 topographic maps."
+gmaq10,2006-12-06,1.2,"The Global Map Antarctica was developed from a scale of 1 to 1 million of Antarctic Digital Database (ADD) version 4.1. Data format, Coodinate system and tiling scheme of Global Map Antarctica Layer are different from Global Map Specifications version 1.2. Please refere to Special Specifications for Global Map Antarctica about those points."

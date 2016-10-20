@@ -1,4 +1,4 @@
-dataset id,release date from ISCGM,specification version,source data description
+dataset id,release date from ISCGM,specification version,"Remarks: source data description etc."
 gmcg10,2008-05-23,,"The data is created from 'LANDSAT ETM+' image which the GLCF project of the Maryland state university offers, Vmaplevel0, and the geographic information in which acquisition at spot is possible."
 gmcg20,2016-02-18,2.0,"The data is created from 'LANDSAT ETM+' image which the GLCF project of the Maryland state university offers, Vmaplevel0, and the geographic information in which acquisition at spot is possible."
 gmcd10,2008-05-08,,No information
@@ -55,11 +55,16 @@ gmid10,2007-09-27,,No information
 gmir10,2005-10-24,,"Boundaries layer was developed from Digital Map 1:250000(1996). Drainage and Population layer were developed from Digital Map 1:250000(1996), Digital Map 1:500000(1999) and Digital Map 1:1000000(1995). Transportation layer was developed from Digital Map 1:250000(1996), Digital Map 1:500000(1999) and Road Map 1:2500000(2000). Asphalt roads acquired by GPS."
 gmir11,2007-11-xx,1.1,No information
 gmir20,2013-01-17,2.1,The Global Map Iran was developed from Digital Map 1:250000(1996)
-gmjp,,,
+gmjp10,2000-11-28,1.2.1,"Only raster data. The Elevation layer was developed from Digital Map 250meter Grid(Elevation)."
+gmjp11,2005-11-xx,1.2.1,"Only raster data. The Elevation layer was developed from Digital Map 50meter Grid(Elevation). The Land Cover layer was developed from Global Land Cover Characterization. The Land Use layer was developed from The Digital National Land Information. The Vegetation layer was developed from data of Natural Environmental Information GIS."
+gmjp20,2011-05-10,2.2,"The Global Map Japan version 2.0, which is corresponding to the merger of municipalities as of April 1, 2010, was developed to update the Global Map Japan version 1.1 using the 1:1,000,000 International Map series and other information. The attribute of population uses 2005 Population Census of Japan / Ministry of Internal Affairs and Communications Statistic Bureau. The Transportation layer version 2.01was developed using the 1:25,000 Fundamental Geospatial Data for Ibaraki area as of February 1, 2011 and Digital Japan Basic Map as of August 2012 to slightly update Global Map Japan version 2.0."
+gmjp21,2015-01-01,2.2,"The Boundary layer, which is corresponding to the merger of municipalities as of January 1, 2015, was developed to update the Global Map Japan version 2.0 using the information about the merger of municipalities. The attribute of population uses 2014 Population Census of Japan / Ministry of Internal Affairs and Communications Statistic Bureau. The Transportation Layer, only Airport Layer was updated using the Digital Map 200000."
+gmjp22,2016-03-31,2.2,"In the Global Map Japan version 2.2, Road, Railroad and Railroad Station Layer were updated using GSI Maps. URL for GSI Maps: http://maps.gsi.go.jp/ (in Japanese)."
 gmjo10,2006-12-08,,"The Global Map Jordan was developed from Tourist Map of Jordan 2005 Scale 1:750,000."
 gmjo20,2012-08-22,2.1,"The Global Map Jordan version 1 was developed from Tourist Map of Jordan 2005 at 1:750,000 scale. The Global Map Jordan version 2 was developed to update Global Map Jordan version 1 based on Global Map Specifications version 2.1."
 gmkz10,2003-07-12,,No information
-gmkr,,,
+gmkr10,2011-10-17,No metadata,No metadata
+gmkr20,2012-05-10,No metadata,No metadata
 gmkg10,2003-07-12,,"The Global Map Kyrgyzstan is mainly based on the paper topographic maps provided by the State Service of Cartography and Geodesy of Kyrghyz Republic, and VMAP0 is used as supplemental information.
 "
 gmkg20,2016-02-08,2.0,"The Global Map Kyrgyz is mainly based on the paper topographic maps provided by the State Service of Cartography and Geodesy of Kyrghyz Republic, and VMAP0 is used as supplemental information."
@@ -89,7 +94,7 @@ gmsy10,2008-08-13,,No information
 gmth10,2000-11-28,,No information
 gmvn10,2007-03-23,,"The Global Map Viet Nam was developed from the topographic maps in the scale of 1:500,000 and other sources."
 gmvn20,2016-03-10,2.0,"Updating the transportation data of version 1.0 using The 1:500,000 transportation map series and 1:1,000,000 digital topographic maps. Updating the Boundaries, Drainage and Population Centre data of version 1.0 using The 1:1,000,000 digital topographic maps and The National Administration Atlas 2013. Create the Elevation data version 1.0 using The 1:1,000,000 digital topographic maps. Create the Land Cover and Vegetable data of version 1.0 using The Modis images 2010. Create the Land Use data version 1.0 using 63 provincial land use maps 2010."
-gmeu80,,,
+gmeu80,2015-10-xx,EGM v80,EuroGlobalMap User Guide
 gmal20,2016-07-14,2.0,"The Global Map Albania version 2 was developed based on Global Map Specifications version 2.2. The source data of vector layers were a Digital Map 1:25000 and Orthophoto, map image made in 1985 and orthophoto made in 2008. The data source of Elevation layer was developed using orthophoto 2000 year. The data source of Land Use and Vegetation layer were developed using orthophoto 2012 year. IRS, SPOT and RapidEye satellite images, dual coverage, orthophotos (2012), topographic maps for making Land Cover. "
 gmbg10,2009-12-25,,The data were generalized and prepared using source vector data from topographic maps in scale 1:50000.
 gmbg20,2010-06-16,2.0,No information
@@ -105,7 +110,7 @@ gmlv20,2012-11-22,2.0,The Global Map Latvia - Boundaries layer accuracy correspo
 gmmd10,2008-06-03,,No information
 gmxk20,2011-08-19,2.0,"The Global Map Republic of Kosovo version 2.0 Boundary layer was developed using the official data that owns Kosovo Cadastral Agency and based on the law that defines administrative boundaries of the Republic of Kosovo. The Global Map Republic of Kosovo version 2.0 Drainage layer was developed using the ortho-photo images of year 2009 and official cadastral data in big scale that owns Kosovo Cadastral Agency. The data of drainage layer was verified by the Ministry of Environment and Spatial Planning of Kosovo, as governmental responsible institution for drainage in Kosovo. The Global Map Republic of Kosovo version 2.0 Population Center layer was developed using the ortho-photo images of year 2009 and official cadastral data in big scale that owns Kosovo Cadastral Agency. The data of drainage layer was verified by the Kosovo Statistical Office, as governmental responsible institution for population centers and demography of the Republic of Kosova. The Global Map Republic of Kosovo version 2.0 Transportation layer was developed using the ortho-photo images of year 2009 and official cadastral data in big scale that owns Kosovo Cadastral Agency. The data of transportation layer was verified by the Ministry of Transportation and Post Telecommunications of Kosovo, as governmental responsible institution for transportation in Kosovo."
 gmbz10,2008-04-30,,No information
-gmca,,,
+gmca22,2013-02-11,2.2,"Only GML format in public. The source data which was used to prepare the Canadian Global Map is publicly available on the website of GeoGratis (www.geogratis.gc.ca)."
 gmcu10,2007-06-18,,"The data contained here were transformed from Digital Topographical Map 1:250 000 of Cuba provided by GEOCUBA, Cuba. "
 gmcu20,2016-02-12,2.0," The data contained here were transformed from Digital Topographical Map 1:250 000 of Cuba provided by GEOCUBA, Cuba."
 gmdm10,2007-12-19,,No information
@@ -121,15 +126,15 @@ gmpa10,2002-03-28,,No information
 gmlc10,2008-05-13,,No information
 gmvc10,2008-06-03,,No information
 gmvc20,2016-02-17,2.0,No information
-gmus,,,
+gmus20,2014-07-23,2.2,"Numerous sources were used to perform quality-control and vertical integration, including all the 1:1,000,000-scale National Atlas map layers, a variety of online sources, and online USGS topographic maps."
 gmar10,2006-10-23,,"The Global Map Argentina - Transportation layer was developed from the generalization of the digital information of the IGM-SIG, scale 1:250000."
 gmbr10,2007-08-31,,"The Global Map Brazil was developed from a digital database of Brazilian territory called Cartographic Integrated Digital Database of Brazil at 1:1 000 000 scale, originated from the International Chart of the World (CIM) paper sheets. It is composed of layers and features, in vector format, representing the main geographic features, which covers all national territory. Each feature class has geometric and semantic attributes associated to a data bank, allowing querying data and aggregating new data."
 gmbr20,2012-09-10,2.0,"The Global Map Brazil - Elevation layer was developed from the contour lines and elevation points of maps on the scale 1:1,000,000 (BCIM -  Brazilian Cartographic Database in millionth),updated by satellite images (GEOCOVER, 2000 and CBERS, 2006) and digital maps, several years at 1:250,000 scale until 2006. The digital elevation model was generated by the vector data triangulation (TIN), converted"
 gmcl10,2008-02-20,,"The Global Map of Chile (Sector in South American Continent and Pacific Ocean) was developed mostly on the basis of an extract from the digital database of Chilean territory maintained by the Military Geographic Institute of Chile. The extract taken from the 1:250,000 series of topographic maps (Universal Transversal Mercator) consisted of those feature types corresponding to Global Map specifications for the Vector layers. This base was converted to 1:1,000,000 and edited to bring it closer to GM specifications, working on both the graphic elements and the tables of alphanumeric data associated. The Antarctic sector of the Global Map of Chile was developed on the basis of an extract from existing map of the whole Antarctic Continent (made by IGM, published in 1999 at 1:10,000,000 scale, Polar Stereographic). This base was converted to 1:1,000,000 and edited to bring it closer to GM specifications, working on both the graphic elements and the tables of alphanumeric data associated. "
 gmco10,2001-05-18,,No information
-gmuy10,2007-12-03,1.1 ,"For the Global Map Project development,the digital map in dgn format to a scale of 1:500.000 was used. "
+gmuy10,2007-12-03,1.1,"For the Global Map Project development,the digital map in dgn format to a scale of 1:500.000 was used. "
 gmuy20,2013-03-18,2.1,"In the making of this layer  are used tools of the software, appropriate for the correct union of the vectors in the corresponding  intersections."
-gmau,,,
+gmau10,2001-06-28,,"Vector data for Global Map Australia 1M 2001 was produced by generalising Geoscience Australia's GEODATA TOPO 250K Series 1 data."
 gmnz10,2007-06-14,,No information
 gmnz20,2014-07-03,2.2,"The Global Map New Zealand version 2 airport and road were developed from the Topo500 data 2011 at 1:500,000 scale. Railroad station and railroad were developed from Topo250 data 2012 at 1:250,000 scale. Ferry route was developed from the Topo50 data 2012 at 1:50,000 scale. The Global Map New Zealand version 2 built up area was developed from the S-57 data 2012 at 1:90,000-1:350,000 scale. The Global Map New Zealand version 2 coast line, political boundary line and political boundary area were developed from the Topo500 data 2012 at 1:500,000 scale. The Global Map New Zealand version 2 miscellaneous, aqueduct, water course and inland water were developed from the Topo500 data 2011 at 1:500,000 scale."
 gmpg10,2008-04-15,,No information
